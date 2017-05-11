@@ -24,7 +24,8 @@ public class MemberRegistrationTest {
 
     @Test
     public void testRegister() throws Exception {
-        throw new Exception("Explicit test failure!");
+        // No errors here. Uncomment next line to kill the build.
+        // throw new Exception("Explicit test failure!");
     }
 
 }

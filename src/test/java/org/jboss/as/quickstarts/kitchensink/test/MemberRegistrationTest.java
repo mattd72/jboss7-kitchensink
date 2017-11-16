@@ -26,7 +26,6 @@ public class MemberRegistrationTest {
     public void testRegister() throws Exception {
         // No errors here. Uncomment next line to kill the build.
          // throw new Exception("Fat-fingered typo.");
-         // Extra comment
          System.out.println("Success!");
     }
 
